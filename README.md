@@ -6,6 +6,12 @@ Currently I'm in university studying computer science but I'm also self-learning
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,discord,firebase,git,netlify,py,solidity,vscode&perline=4)](https://skillicons.dev)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Prat#8688) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratv7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pratv8) 
+<a href="https://www.linkedin.com/in/pratv7/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
+<a href="https://twitter.com/Pratv8">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/>
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
