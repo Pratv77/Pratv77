@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Pratham ![](https://github.com/Pratv77/Pratv77/blob/main/bill.gif)
 
 <!--
 **Pratv77/Pratv77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
