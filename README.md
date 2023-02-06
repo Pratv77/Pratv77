@@ -1,5 +1,5 @@
 # Hey, I'm Pratham ![](https://github.com/Pratv77/Pratv77/blob/main/bill.gif)
-Currently I'm in university studying computer science but I'm also self-learning a lot of new technologies, mostly focused on learning fullstack development. Although I'm still early on in my journey, I'm excited to continue learning and growing. At the moment, I'm working on a [personal project](https://github.com/Pratv77/Website-Portfolio). Random fact, I peaked rank 4 Zed in League of Legends.🚀
+Currently I'm in university studying computer science but I'm also self-learning a lot of new technologies, mostly focused on learning fullstack development. Although I'm still early on in my journey, I'm excited to continue learning and growing. At the moment, I'm working on a [personal project](https://github.com/Pratv77/KeshStats). Random fact, I peaked rank 4 Zed in League of Legends.🚀
 
 
 # 💻 Tech Stack:
