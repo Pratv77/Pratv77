@@ -14,4 +14,3 @@ Currently I'm in university studying computer science but I'm also self-learning
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/>
 </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
