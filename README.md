@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,discord,firebase,git,netlify,py,solidity,vscode&perline=12)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,discord,firebase,git,netlify,py,solidity,vscode&perline=12)](https://skillicons.dev)
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/pratv7/">
