@@ -1,5 +1,5 @@
 # <p align="center"> Hey, I'm Pratham  ![](https://github.com/Pratv77/Pratv77/blob/main/bill.gif) </p>
-<p align="center"> Currently I'm in university studying computer science but I'm also self-learning a lot of new technologies, mostly focused on learning fullstack development. I've learned the basics of Solidity through a bootcamp aswell as CryptoZombies so I'm ready to dive into the world of Web3. Although I'm still early on in my journey, I'm excited to continue learning and growing.🚀</p>
+<p align="center"> Currently I'm studying computer science and statistics at the University of Toronto but I'm also self-learning a lot of new technologies, mostly focused on learning fullstack development. I've learned the basics of Solidity through a bootcamp aswell as CryptoZombies so I'm ready to dive into the world of Web3. Although I'm still early on in my journey, I'm excited to continue learning and growing.🚀</p>
 
 
 # 💻 Tech Stack:
