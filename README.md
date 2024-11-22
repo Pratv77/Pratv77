@@ -10,7 +10,7 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-<a href="https://twitter.com/Pratv8">
+<a href="https://x.com/PratGPT">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/>
 </a>
 
